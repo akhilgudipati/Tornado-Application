@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tornado3</string>
+
+    <string-array name="Alabama">
+        <item>akhil</item>
+        <item>nikhil</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>choose country</item>
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Indiana</item>
+    </string-array>
+
+</resources>
